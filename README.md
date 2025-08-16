@@ -1,4 +1,6 @@
-# Unified Memory–Learning Agent
+#          AI-Cognition
+# -------------------------------
+# A Unified Memory–Learning Agent
 
 This repository contains the code, simulation scripts, and experimental results
 for the paper:
