@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "AI-congnition"
+authors:
+  - family-names: "Busireddy"
+    given-names: "Jay"
+    affiliation: "Independent Researcher"
+date-released: "2025-08-16"
+version: "v1.0.0"
+doi: ""  # Leave blank if you don't have one yet
+url: "https://github.com/jay-busireddy/AI-congnition"
