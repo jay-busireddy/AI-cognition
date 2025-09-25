@@ -16,6 +16,6 @@ It integrates:
 
 ## 📦 Installation
 ```bash
-git clone [https://github.com/jay-busireddy/AI-congnition.git]
+git clone [https://github.com/jay-busireddy/AI-cognition.git]
 cd unified-agent
 pip install -r requirements.txt
